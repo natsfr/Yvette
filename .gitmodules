@@ -1,0 +1,3 @@
+[submodule "kicad-components"]
+	path = kicad-components
+	url = https://code.electrolab.fr/nats/kicad-components
